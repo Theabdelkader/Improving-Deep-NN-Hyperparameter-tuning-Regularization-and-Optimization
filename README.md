@@ -7,3 +7,5 @@ Adam on the other hand, clearly outperforms mini-batch gradient descent and Mome
 Some advantages of Adam include:
 Relatively low memory requirements (though higher than gradient descent and gradient descent with momentum)
 Usually works well even with little tuning of hyperparameters (except  α)
+
+### from Deep Learning Specialization on Coursera
